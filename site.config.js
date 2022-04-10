@@ -15,7 +15,7 @@ export default {
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: ' ',
+  twitter: '',
   github: '',
   linkedin: '',
 
